@@ -3,8 +3,6 @@ Repository pour le module M04 (lic. pro IUT Villetaneuse)
 
 Le groupe :
 
-- Les identifiants  
-
 * Julien : touch_info_047
 julien huang
 
