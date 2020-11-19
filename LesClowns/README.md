@@ -5,17 +5,12 @@ Le groupe :
 
 * **julien Huang** : tmp_info_047
 
-* Quentin : tmp_info_048
-**Quentin Jolivet**
+* **Quentin Jolivet** : tmp_info_048
 
-* Kevin : tmp_info_043
-**Kévin Ferreira**
+* **Kévin Ferreira** : tmp_info_043
 
-* Guy : tmp_pas_de_login
-**Minh Guy Le**
+* **Minh Guy Le** : tmp_pas_de_login
 
-* Anatole : tmp_info_052
-**Anatole Lellouch**
+* **Anatole Lellouch** : tmp_info_052
 
-* Sajinthan : tmp_info_058
-**Sajinthan Sathianathan**
+* **Sajinthan Sathianathan** : tmp_info_058
