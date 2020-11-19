@@ -16,7 +16,7 @@ Kévin Ferreira
 Minh Guy Le
 
 * Anatole : tmp_info_052
-  *Anatole Lellouch
+**Anatole Lellouch
 
 * Sajinthan : tmp_info_058
 Sajinthan Sathianathan
