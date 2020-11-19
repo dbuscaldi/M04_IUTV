@@ -3,8 +3,7 @@ Repository pour le module M04 (lic. pro IUT Villetaneuse)
 
 Le groupe :
 
-* Julien : tmp_info_047
-**julien Huang**
+* **julien Huang** : tmp_info_047
 
 * Quentin : tmp_info_048
 **Quentin Jolivet**
