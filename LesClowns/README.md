@@ -1,3 +1,24 @@
 # M04_IUTV - Groupe : Les Clowns 
 Repository pour le module M04 (lic. pro IUT Villetaneuse)
 
+Le groupe :
+
+- Les identifiants  
+
+* Julien : touch_info_047
+julien huang
+
+* Guy : tmp_pas_de_login
+Minh Guy Le
+
+* Quentin : tmp_info_048
+Quentin Jolivet
+
+* Kevin : tmp_info_043
+Kévin Ferreira
+
+* Anatole : tmp_info_052
+Anatole Lellouch
+
+* Sajinthan : tmp_info_058
+Sajinthan Sathianathan
