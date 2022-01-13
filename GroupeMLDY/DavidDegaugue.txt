@@ -1,0 +1,7 @@
+Coucou
+<<<<<<< HEAD
+ouioui
+=======
+
+Hello David, bonne année ! :p
+>>>>>>> 2300bdb9af9e312e6850a6276af3fb5fd1e93a8e
